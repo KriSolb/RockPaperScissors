@@ -1,0 +1,30 @@
+* {
+    background-image: none;
+    background-color: rgb(161, 161, 161);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    background-color: black;
+    padding: 10px;
+    margin: auto;
+    min-width: 15rem;
+    max-width: 25rem;
+}
+
+#rock,
+#paper,
+#scissors {
+    text-decoration: none;
+    border: none;
+    color: green;
+    background-color: black;
+    padding: 32px 32px;
+    margin: 4px;
+    cursor: pointer;
+    width: 10rem;
+    height: auto;
+}
